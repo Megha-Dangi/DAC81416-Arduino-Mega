@@ -36,10 +36,10 @@ The software limits DAC outputs to:
 Examples:
 
 - DAC0 = -1V
-- DAC0 = -2V
-- DAC0 = -3V
-- DAC0 = -4V
-- DAC0 = -5V
+- DAC1 = -2V
+- DAC2 = -3V
+- DAC3 = -4V
+  
 
 ## Notes
 
